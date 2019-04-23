@@ -1,0 +1,4 @@
+#Tue Apr 23 21:52:24 BDT 2019
+base.0=C\:\\Users\\Arhan Ashik\\Downloads\\Chat\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
